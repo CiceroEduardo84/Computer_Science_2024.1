@@ -1,0 +1,17 @@
+%d: Para inteiros decimais.
+%i: Para inteiros em notação decimal, octal ou hexadecimal (o prefixo 0x ou 0X indica hexadecimal e 0 indica octal).
+%u: Para inteiros sem sinal.
+%f: Para números de ponto flutuante (float).
+%lf: Para números de ponto flutuante de dupla precisão (double).
+%c: Para caracteres.
+%s: Para strings de caracteres.
+%p: Para ponteiros.
+%x: Para inteiros em formato hexadecimal.
+%o: Para inteiros em formato octal.
+%e ou %E: Para notação científica de números de ponto flutuante.
+%g ou %G: Para formatação de ponto flutuante em estilo "compacto" ou notação científica, dependendo da magnitude do número.
+%a ou %A: Para formatação hexadecimal de ponto flutuante em formato hexadecimal de ponto flutuante (a partir do C99).
+%n: Para armazenar o número total de caracteres escritos até esse ponto na variável apontada (não para scanf()).
+%%: Para imprimir o caractere '%' literalmente.
+
+Esses são os principais especificadores de formato em C, que cobrem a maioria dos casos de formatação de entrada e saída de dados.
