@@ -1,0 +1,8 @@
+1. Acesse o site do ibge: https://www.ibge.gov.br/
+2. No menu va até estatisticas, em estatisticas vá até sociais e em sociais vá até educação
+3. Em educação acesse o PNAD-Pesquisa Nacional de Amostra de Domicilio
+4. No menu vá até downloads
+5. Vá em microdados, em microdados vá até 2015
+6. Faça o download de: Dados_20170517
+7. Descompacte copie e cole aqui o arquivo: DOM2015
+8. Renomeie o arquivo DOM2015 para pessoas_2015
